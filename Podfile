@@ -12,3 +12,7 @@ end
 target 'TestCocoPodProject' do
     shared_pods
 end
+
+target 'TestCocoPodProjectTests' do
+    shared_pods
+end
